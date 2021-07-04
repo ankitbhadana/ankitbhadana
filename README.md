@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ankitbhadana
 - 👀 I’m a JavaScript developer expertising in developing Node.js applications
-- 🌱 I’m currently learning React.js
 - 📫 How to reach me? email : ankitbhadana@gmail.com
 
 <!---
