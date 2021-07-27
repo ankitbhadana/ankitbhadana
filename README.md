@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ankitbhadana
-- 👀 I’m a JavaScript developer expertising in developing Node.js applications
+- 👀 I’m a JavaScript developer having expertize in developing Node.js applications
 - 📫 How to reach me? email : ankitbhadana@gmail.com
 
 <!---
