@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ankitbhadana
-- 👀 I’m a Node.js developer having expertize in developing scalable network applications
+- 👀 I’m a Node.js developer having expertize in development of scalable network applications
 - 📫 How to reach me? email : ankitbhadana@gmail.com
 
 <!---
